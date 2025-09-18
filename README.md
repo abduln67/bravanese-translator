@@ -3,11 +3,17 @@
 A Python-based bidirectional translator between Bravanese, an endangered dialect spoken in the Somali town of Barawa, and English, built to support language preservation and accessibility.
 
 Features:
+
 🔄 Translate words both directions: Bravanese → English and English → Bravanese
+
 📂 Loads translations from a simple CSV wordlist
+
 🛠 Handles errors gracefully (missing words, file issues, invalid inputs)
+
 ✨ Cleans input (case-insensitive) and formats output nicely
+
 💻 Interactive command-line interface with simple prompts and "exit" option
+
 
 Usage:
 Prepare a CSV file (default: bravanese.csv) with two columns:
